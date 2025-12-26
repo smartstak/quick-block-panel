@@ -1,0 +1,17 @@
+{
+    "name": "smartstak/quick-block-panel",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "QuickBlockPanel\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tushar Sharma",
+            "email": "smartstak@gmail.com"
+        }
+    ],
+    "require": {}
+}
